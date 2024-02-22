@@ -1,6 +1,17 @@
 # Propuesta Fuego Azteca
+
 ## Equipo 16
-Repositorio para la creación de una propuesta de transformación digital a Fuego Azteca
+
+Sebastian Escobedo Padilla: A01351597@tec.mx
+Leonardo Luna Flores: A01633305@tec.mx
+Paulina Lizet Gutiérrez Amezcua: A01639948@tec.mx
+Valeria Trejo Natividad: A01633317@tec.mx
+Fernando Michael Escareño Trujillo: A01540830@tec.mx
+Jessica Sarahí Vázquez Martínez: A01639945@tec.mx
+Inés Santiago: A01631552@tec.mx
+Alfonso Esteban Ruelas Meza: A01253563@tec.mx
+
+### Repositorio para la creación de una propuesta de transformación digital a Fuego Azteca
 
 Nuestra propuesta es la implementación de la herramienta de Power BI que es un servicio de análisis de datos que permite a las empresas visualizar sus datos y compartir información en toda la organización. Proporciona visualizaciones interactivas y capacidades de inteligencia empresarial, esto con una interfaz fácil e intuitiva para que las personas puedan crear sus propios informes.
 
